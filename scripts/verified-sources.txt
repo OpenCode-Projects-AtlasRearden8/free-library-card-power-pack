@@ -1,0 +1,39 @@
+# Tested source allowlist
+#
+# Every URL cited in content/entries.json must appear here. Tests enforce it.
+# Each line: URL — one space — verification note (method + date).
+# Verification methods:
+#   fetch  = fetched directly with content confirmed (webfetch, November 2026)
+#   fetch* = fetched, returned 2xx but rendered empty by the fetch tool
+#            (rendered content additionally confirmed via official-page highlights)
+#   nav    = link present on a directly fetched official page of the same site
+
+https://libguides.ala.org/interlibraryloans fetch 2026-11-03
+https://www.ala.org/rusa/interlibrary-loan-code-united-states-explanatory-text search:official-page 2026-11-03
+https://www.nypl.org/research/services/interlibrary-loan fetch* + search:official-page 2026-11-03
+https://libbyapp.com/ fetch 2026-11-03
+https://www.amazon.com/sendtokindle fetch 2026-11-03
+https://www.berkeleypubliclibrary.org/explore/elibrary fetch 2026-11-03
+https://www.hoopladigital.com/about fetch 2026-11-03
+https://www.museums4all.org/ fetch 2026-11-03
+https://www.berkeleypubliclibrary.org/explore/discover-go-parks fetch 2026-11-03
+https://ed.cde.state.co.us/cdelib/checkoutcostateparks search:official-page 2026-11-03
+https://cpw.state.co.us/activities/outdoor-explorer-backpack search:official-page 2026-11-03
+https://berkeleypubliclibrary.org/tools fetch 2026-11-03
+https://www.bpl.org/library-of-things/ search:official-page 2026-11-03
+https://smcl.org/libraryofthings/ search:official-page 2026-11-03
+https://gladl.org/project/sewingmachine/ search:official-page 2026-11-03
+https://www.toollibraryalliance.org/ fetch 2026-11-03
+https://www.toollibraryalliance.org/map fetch 2026-11-03
+https://localtools.org/find/ fetch 2026-11-03
+https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers fetch 2026-11-03
+https://www.irs.gov/individuals/checklist-for-free-tax-return-preparation fetch 2026-11-03
+https://www.aarp.org/money/taxes/aarp_taxaide/ fetch 2026-11-03
+https://www.indypl.org/services/careers search:official-page 2026-11-03
+https://www.bklynlibrary.org/business/career-help search:official-page 2026-11-03
+https://www.nypl.org/education/adults/career-services search:official-page 2026-11-03
+https://hmmpl.org/book-a-librarian/ search:official-page 2026-11-03
+https://tcpl.lib.in.us/learn/adults/book-a-librarian/ search:official-page 2026-11-03
+https://www.evpl.org/services/book-a-librarian/ search:official-page 2026-11-03
+https://www.richmondgrowsseeds.org/ fetch 2026-11-03
+https://www.richmondgrowsseeds.org/library-finder.html nav+fetch 2026-11-03

@@ -1,0 +1,325 @@
+{
+  "title": "Free Library Card Power Pack",
+  "subtitle": "Nine things your public library card already pays for",
+  "updated": "2026-11-03",
+  "org": "Asdale Dynamics, LLC",
+  "intro": "A library card is one of the last true freebies in America. This pack walks through, in plain English, the biggest perks most people never claim: getting books from anywhere, borrowing real tools and sewing machines, free park and museum passes, free tax help, free classes, and more. Everything here is a service you can actually get, verified against official public sources in November 2026. No affiliate links anywhere — every source is the organization's own public page.",
+  "entries": [
+    {
+      "id": "ill",
+      "icon": "truck",
+      "topic": "Interlibrary loan",
+      "title": "Interlibrary loan: borrow books from libraries across the country",
+      "teaser": "Your library did not buy it? They can get it from another library.",
+      "what": [
+        "Interlibrary loan (ILL) is a nationwide sharing network between libraries. If your library does not own the book, DVD, journal article, or microfilm you need, a librarian searches other libraries, one agrees to mail it, and it shows up at your front desk like an ordinary hold.",
+        "By ALA's definition, libraries request and supply material to each other so you can read something your local system does not have. Loans usually take about one to three weeks depending on distance, and you can often renew.",
+        "Every major library system runs ILL, and most offer it free to their own cardholders. You request it online (through a form like ILLiad), at a desk, or by asking a librarian, who searches the combined catalogs of other libraries nationwide."
+      ],
+      "cost": [
+        "Free at most public libraries for their own patrons.",
+        "A few libraries charge a small borrowing fee or pass through the shipping cost of rare items — ask at the desk. Late or lost items can carry fees (for example, The New York Public Library charges a $100 minimum late fee on ILL items)."
+      ],
+      "signup": [
+        "You need a valid (usually standard, not digital/temporary) library card with a clean account.",
+        "Know the title and author — the more complete the citation, the faster the request.",
+        "Submit through your library's ILL form, catalog, or a librarian. Most systems ask for a few details online and email you a confirmation, then another email when the item is ready."
+      ],
+      "goodToKnow": [
+        "Brand-new bestsellers, entire e-books (copyright), and the latest magazine issues are usually off-limits — ILL is for material your library does not already own.",
+        "Do not put ILL books in the book drop — hand them to staff so they get a return receipt."
+      ],
+      "examples": [
+        { "name": "NYPL Interlibrary Loan & Document Services", "url": "https://www.nypl.org/research/services/interlibrary-loan", "desc": "How one of the biggest systems runs ILL for cardholders, including fees." },
+        { "name": "ALA LibGuide — Interlibrary Loans", "url": "https://libguides.ala.org/interlibraryloans", "desc": "The American Library Association's definition and process for ILL." }
+      ],
+      "sources": [
+        { "label": "American Library Association — What is interlibrary loan", "url": "https://libguides.ala.org/interlibraryloans" },
+        { "label": "ALA — Interlibrary Loan Code for the United States", "url": "https://www.ala.org/rusa/interlibrary-loan-code-united-states-explanatory-text" },
+        { "label": "NYPL — Interlibrary Loan & Document Services", "url": "https://www.nypl.org/research/services/interlibrary-loan" }
+      ]
+    },
+    {
+      "id": "libby",
+      "icon": "ebook",
+      "topic": "Digital app",
+      "title": "Libby: free e-books and audiobooks on your phone, tablet, or Kindle",
+      "teaser": "The friendly app that turns your library card into an e-reader.",
+      "what": [
+        "Libby is the free reading app by OverDrive. Thousands of public libraries use it to lend e-books and audiobooks; you sign in with your library card and can borrow instantly instead of waiting for a hold, or place front-of-line holds in some systems.",
+        "What you can get: bestsellers, classics, business books, kids' titles, magazines, and read-along audiobooks, all free and all legal.",
+        "Read on phones, tablets, e-readers, and computers. Works offline once downloaded."
+      ],
+      "cost": [
+        "Free. The app is free, borrowing is free, and every e-book or audiobook you borrow is free.",
+        "Optional: Kindle-readers can send compatible Libby loans to a Kindle device or the Kindle app at no cost."
+      ],
+      "signup": [
+        "Phone, tablet, or computer.",
+        "A valid library card from a participating public library system (the app walks you through finding your library from a list).",
+        "Search for 'Libby' in your app store, or just visit libbyapp.com in a browser and follow the three-screen setup."
+      ],
+      "goodToKnow": [
+        "Getting a Kindle book through Libby: borrow in Libby, tap 'Read with Kindle', and Amazon's Send to Kindle page walks you through sending it to your Kindle, or use your browser.",
+        "Borrow too much? Titles auto-return at the end of the loan period — no overdues, ever."
+      ],
+      "examples": [
+        { "name": "Libby (by OverDrive)", "url": "https://libbyapp.com/", "desc": "The official Libby app and getting-started screen." },
+        { "name": "Send to Kindle", "url": "https://www.amazon.com/sendtokindle", "desc": "Amazon's own page for sending compatible books and personal documents to a Kindle." },
+        { "name": "Berkeley Public Library — Downloads & streaming", "url": "https://www.berkeleypubliclibrary.org/explore/elibrary", "desc": "An example of a library's help page for e-book apps." }
+      ],
+      "sources": [
+        { "label": "Libby by OverDrive (official site)", "url": "https://libbyapp.com/" },
+        { "label": "Amazon — Send to Kindle (official page)", "url": "https://www.amazon.com/sendtokindle" }
+      ]
+    },
+    {
+      "id": "hoopla",
+      "icon": "stream",
+      "topic": "Digital app",
+      "title": "Hoopla: instant movies, music, comics, and audiobooks — no waiting lists",
+      "teaser": "The library app where everything is checked out right now.",
+      "what": [
+        "Hoopla (run by Midwest Tape) is a free digital service of Midwest-based libraries that gets you movies and TV, full music albums, comics, e-books, and audiobooks the moment you want them — no hold queues, nothing 'currently checked out'.",
+        "Think of it as the lazy-Sunday app: stream a documentary, borrow a graphic novel, or play a kids' audiobook on a car ride without planning ahead.",
+        "Works on phones, tablets, TVs (Roku, Fire TV, Apple TV, Chromecast), and desktop browsers."
+      ],
+      "cost": [
+        "Free to you.",
+        "Your library sets a monthly borrowing limit (commonly a handful of instant borrows per month). Anything you stream or check out counts toward that limit — no fees, no fines."
+      ],
+      "signup": [
+        "Your valid library card and card PIN.",
+        "Email address to create a hoopla account.",
+        "Sign up on hoopladigital.com, in the app stores, or on your TV app; the first screen asks which library system you belong to."
+      ],
+      "goodToKnow": [
+        "Limits reset on the first of the month.",
+        "Because it is instant, popular titles never expire — but so is the temptation to burn through your monthly borrows in one weekend."
+      ],
+      "examples": [
+        { "name": "hoopla — About", "url": "https://www.hoopladigital.com/about", "desc": "hoopla's own explanation of the service, its content types, and how it works with libraries." }
+      ],
+      "sources": [
+        { "label": "hoopla (official site and About page)", "url": "https://www.hoopladigital.com/about" }
+      ]
+    },
+    {
+      "id": "passes",
+      "icon": "ticket",
+      "topic": "Museum & park passes",
+      "title": "Museum passes and park passes in your glovebox — on the library's dime",
+      "teaser": "Free days at museums and free entry to state parks, all from the circulation desk.",
+      "what": [
+        "Many libraries lend real, physical passes to local museums, zoos, gardens, and science centers. For example, Berkeley Public Library's Discover & Go gets Berkeley cardholders free passes to Bay Area attractions — and the same program lends California State Park vehicle hangtags for up to two weeks. Hundreds of systems run similar programs under names like Museum Pass, Discover & Go, and Library Adventure Pass.",
+        "Check Out Colorado State Parks: every Colorado public library hands out a week-long state park pass and an adventure backpack (binoculars, field guides, activity cards) — an actual partnership between Colorado's libraries, State Library, and Parks & Wildlife.",
+        "Museums for All: not tied to your library card at all — if your family receives SNAP (food stamp) benefits, presenting an EBT card and photo ID at the door gets free or reduced admission at more than 1,600 participating museums nationwide."
+      ],
+      "cost": [
+        "Free or included with your library card for library pass programs (count of family members covered varies by museum).",
+        "Museums for All is free admission or reduced admission ($0–$3 at many museums) with an EBT card.",
+        "A few libraries lend passes on a first-come basis and ask a small refundable deposit — rare, but ask when you reserve."
+      ],
+      "signup": [
+        "Library pass programs: reserve through your library's website (search your library name plus 'museum pass'), by phone, or at a desk. Passes get checked out like a book, to your valid library card, often up to a week at a time.",
+        "Colorado: check out the pass-and-backpack from any participating Colorado public library for up to seven days (the pass covers one vehicle's entry).",
+        "Museums for All: nothing to sign up for — just show an EBT card and photo ID at a participating museum. Find them at the official Museums for All museum finder."
+      ],
+      "goodToKnow": [
+        "Passes go fast on weekends and school holidays — reserve early or go mid-week.",
+        "If your town has no museum-pass program, ask a librarian anyway: many systems teach out-of-town deals or can point you to the closest program that does."
+      ],
+      "examples": [
+        { "name": "Museums for All", "url": "https://www.museums4all.org/", "desc": "Official program finder: 1,600+ museums that accept SNAP/EBT for free or reduced admission." },
+        { "name": "Berkeley Public Library — Discover & Go & Parks", "url": "https://www.berkeleypubliclibrary.org/explore/discover-go-parks", "desc": "A classic example of a library-run museum-pass program." },
+        { "name": "Colorado — Check Out Colorado State Parks", "url": "https://ed.cde.state.co.us/cdelib/checkoutcostateparks", "desc": "The official Colorado State Library page for the state-wide park-pass loan program." },
+        { "name": "Colorado Parks & Wildlife — Outdoor Explorer Backpack", "url": "https://cpw.state.co.us/activities/outdoor-explorer-backpack", "desc": "What is inside the backpack and how library checkouts include free state park admission." }
+      ],
+      "sources": [
+        { "label": "Museums for All (official)", "url": "https://www.museums4all.org/" },
+        { "label": "Berkeley Public Library — Discover & Go", "url": "https://www.berkeleypubliclibrary.org/explore/discover-go-parks" },
+        { "label": "Colorado State Library — Check Out Colorado State Parks", "url": "https://ed.cde.state.co.us/cdelib/checkoutcostateparks" },
+        { "label": "Colorado Parks & Wildlife — Outdoor Explorer Backpack", "url": "https://cpw.state.co.us/activities/outdoor-explorer-backpack" }
+      ]
+    },
+    {
+      "id": "tools",
+      "icon": "wrench",
+      "topic": "Tool & sewing lending",
+      "title": "Borrow a drill, a rake, or a sewing machine instead of buying one",
+      "teaser": "Tool libraries and 'Library of Things' let you rent real gear with a library card.",
+      "what": [
+        "A tool library or 'Library of Things' is a circulating collection of real objects: power tools, garden gear, home-repair kits, telescopes, party equipment, and sewing machines. The old idea is simply 'borrow instead of buy'.",
+        "Sewing machines are one of the most common items. Boston Public Library, the Grand Ledge (Michigan) library system (GLADL), and San Mateo County Libraries all lend full sewing machines, from beginner machines to heavy-duty models.",
+        "Standalone tool lending libraries (like Berkeley Public Library's, which opened in 1979) and member tool libraries around the country operate through the Tool Library Alliance and myturn-powered localtools.org listings."
+      ],
+      "cost": [
+        "Free to borrow with your library card at libraries that run these collections.",
+        "Standalone (non-government) tool libraries usually free to anyone; a few ask for small membership dues or deposits that are refunded when gear comes back.",
+        "You may be responsible for replacement costs if something comes back damaged or lost (for example, Boston Public Library lists a $250 replacement for a sewing machine), and a few items require a signed waiver."
+      ],
+      "signup": [
+        "A library card in good standing (usually adult — 18+ for tools and machines).",
+        "For many Library of Things collections: a photo ID and, sometimes, a short waiver to sign at pickup.",
+        "Reserve the item online through your library's catalog or the tool library's website, or walk in and ask what's available — staff will show you the list and the loan period (often 1 to 3 weeks)."
+      ],
+      "goodToKnow": [
+        "Not sure how to use it? Ask — most tool libraries run free skill workshops (wheel changing, basic sewing, lawn care).",
+        "Sewing machines usually come with the full kit: bobbins, needles, feet, manual, sometimes even thread."
+      ],
+      "examples": [
+        { "name": "Berkeley Public Library — Tool Lending Library", "url": "https://berkeleypubliclibrary.org/tools", "desc": "The famous tool library, open since 1979, with an online tool list." },
+        { "name": "Boston Public Library — Library of Things", "url": "https://www.bpl.org/library-of-things/", "desc": "Sewing machines, telescopes, ukuleles, and more, all borrowable." },
+        { "name": "San Mateo County Libraries — Library of Things", "url": "https://smcl.org/libraryofthings/", "desc": "Includes sewing machines, museum passes, and health kits." },
+        { "name": "Tool Library Alliance — Find a tool library map", "url": "https://www.toollibraryalliance.org/map", "desc": "North America-wide map to find a tool library near you." },
+        { "name": "Local Tools — Find and start a tool library", "url": "https://localtools.org/find/", "desc": "Directory and start-up toolkit for tool libraries and Libraries of Things." }
+      ],
+      "sources": [
+        { "label": "Berkeley Public Library — Tool Lending Library", "url": "https://berkeleypubliclibrary.org/tools" },
+        { "label": "Boston Public Library — Library of Things", "url": "https://www.bpl.org/library-of-things/" },
+        { "label": "GLADL — Janome Sewing Machine project page", "url": "https://gladl.org/project/sewingmachine/" },
+        { "label": "Tool Library Alliance (official)", "url": "https://www.toollibraryalliance.org/" },
+        { "label": "Local Tools directory (myturn.com)", "url": "https://localtools.org/find/" }
+      ]
+    },
+    {
+      "id": "tax",
+      "icon": "tax",
+      "topic": "Free tax help",
+      "title": "Free, legitimate tax return prep: VITA, TCE, and AARP Tax-Aide",
+      "teaser": "IRS-certified volunteers prepare simple returns for free — no software subscriptions.",
+      "what": [
+        "The IRS's Volunteer Income Tax Assistance (VITA) and Tax Counseling for the Elderly (TCE) programs offer free basic tax return preparation to people who qualify. Volunteers are IRS-certified every year, and every return gets a quality review before filing.",
+        "VITA generally serves people with moderate income (the IRS page lists around $70,000/year or less, people with disabilities, and taxpayers who speak limited English). TCE focuses on age 60+ taxpayers, especially pensions and retirement questions.",
+        "AARP Foundation Tax-Aide runs the biggest TCE sites — over 3,600 locations nationally, open to anyone who qualifies, no AARP membership required.",
+        "Many VITA and Tax-Aide sites are in your local library, so this pairs neatly with everything else on this list."
+      ],
+      "cost": [
+        "Completely free — filing included.",
+        "No selling, no membership, no software subscription. (Watch out for paid look-alikes; the real programs never charge.)"
+      ],
+      "signup": [
+        "Gather your documents first: photo ID, Social Security cards or ITINs for everyone on the return, all income statements (W-2s, 1099s, etc.), plus last year's return if you have it (see the IRS checklist).",
+        "Find a site: IRS VITA Site Locator Tool (freetaxassistance.for.irs.gov/s/sitelocator), or the AARP Foundation Tax-Aide locator (January–April), or call 800-906-9887 (VITA) / 888-227-7669 (AARP Tax-Aide).",
+        "Sites are walk-in or by appointment — check your location's rules. Appointments fill fast in February and April."
+      ],
+      "goodToKnow": [
+        "Sites must meet IRS standards and follow up with a review of every return, so accuracy is solid for simple returns (W-2 wages, basic credits).",
+        "Bring a printed or digital copy of last year's return — it speeds everything up."
+      ],
+      "examples": [
+        { "name": "IRS — Free tax return preparation for qualifying taxpayers", "url": "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers", "desc": "The official IRS page, including the income guideline and locator tool." },
+        { "name": "IRS — What to bring to your VITA appointment", "url": "https://www.irs.gov/individuals/checklist-for-free-tax-return-preparation", "desc": "The official document checklist, straight from the IRS." },
+        { "name": "AARP Foundation Tax-Aide", "url": "https://www.aarp.org/money/taxes/aarp_taxaide/", "desc": "Explanation of the program, eligibility, and locator." }
+      ],
+      "sources": [
+        { "label": "IRS — Free tax return preparation for qualifying taxpayers", "url": "https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers" },
+        { "label": "IRS — Checklist for free tax return preparation", "url": "https://www.irs.gov/individuals/checklist-for-free-tax-return-preparation" },
+        { "label": "AARP Foundation Tax-Aide (official)", "url": "https://www.aarp.org/money/taxes/aarp_taxaide/" }
+      ]
+    },
+    {
+      "id": "resume",
+      "icon": "resume",
+      "topic": "Resume classes",
+      "title": "Free resume classes, career coaching, and job-search help",
+      "teaser": "Library career centers fix your resume, prep your interview, and print — free.",
+      "what": [
+        "Most mid-size and large libraries run free career programming: resume-writing workshops, one-on-one career coaching, mock interviews, drop-in resume review, and even job fairs. The New York Public Library runs free Career Services with drop-in hours at multiple branches; Brooklyn Public Library's Business & Career Center runs drop-in resume and tech help, plus free resume feedback by email.",
+        "The Indianapolis Public Library runs free Career Centers at branches (resume building, online job applications) and gives cardholders free access to coaching platforms like Brainfuse JobNow, Cypress Resume (an online resume builder), LinkedIn Learning, and the Job & Career Accelerator.",
+        "Multnomah County Library (Portland, OR) runs free weekly Resume Review drop-ins staffed by volunteers."
+      ],
+      "cost": [
+        "Free.",
+        "The premium stuff — live career coaches, resume builders, LinkedIn Learning — is free only through your library card (libraries pay so you don't have to)."
+      ],
+      "signup": [
+        "A valid library card for anything online (JobNow, resume builders, LearningExpress, LinkedIn Learning access).",
+        "Search your library's website for 'career', 'resume', or 'job help', or call and ask what's on the calendar.",
+        "In-person workshops: just show up or register on your library's events calendar. Free platforms like Brainfuse JobNow: log in with your card on your library's website."
+      ],
+      "goodToKnow": [
+        "Libraries also free-print job-search materials and offer free Wi-Fi — ask at the desk if you're job-hunting on a budget.",
+        "If you have an interview, ask about one-on-one practice sessions or resume critiques — these often exist even when they're not on the calendar."
+      ],
+      "examples": [
+        { "name": "Indianapolis Public Library — Career Services", "url": "https://www.indypl.org/services/careers", "desc": "Example of a full library career program including classes and free platforms." },
+        { "name": "Brooklyn Public Library — Career Help", "url": "https://www.bklynlibrary.org/business/career-help", "desc": "Drop-in sessions, free resume review by email, and coaching access." },
+        { "name": "NYPL — Career Services", "url": "https://www.nypl.org/education/adults/career-services", "desc": "Free coaching, resume help, and drop-in career appointments in NYC." }
+      ],
+      "sources": [
+        { "label": "Indianapolis Public Library — Career Services", "url": "https://www.indypl.org/services/careers" },
+        { "label": "Brooklyn Public Library — Career Help", "url": "https://www.bklynlibrary.org/business/career-help" },
+        { "label": "NYPL — Career Services", "url": "https://www.nypl.org/education/adults/career-services" }
+      ]
+    },
+    {
+      "id": "bookalibrarian",
+      "icon": "consult",
+      "topic": "Book-a-Librarian",
+      "title": "Book-a-Librarian: a free one-on-one appointment with an expert",
+      "teaser": "Thirty to sixty uninterrupted minutes with a real person who can help.",
+      "what": [
+        "Book-a-Librarian is a service many libraries offer where you reserve time (typically 30–60 minutes) with a librarian for personalized help: computer or tablet basics, setting up e-book apps, research instruction, genealogy digging, job-search questions, and more.",
+        "Examples: Hussey-Mayfield Whitestown (Indiana) Public Library offers daily one-on-one appointments on devices, Microsoft apps, e-books, and the library catalog; Valparaiso's and Carmel Clay's Indiana systems run the same service for cardholders; Tippecanoe County Public Library's form even lists 'Resume Help' and 'Job Search Help' as options.",
+        "Librarians point you to the right sources and teach you the skill — they do not give medical, legal, tax, or business advice, and they will not do your typing or troubleshooting of personal devices."
+      ],
+      "cost": [
+        "Free — it is a core library service.",
+        "Some libraries may ask you to be a cardholder for in-depth sessions; most will help walk-ins too."
+      ],
+      "signup": [
+        "Book through your library's website (search '[your library] book a librarian'), by calling the reference desk, or in person.",
+        "Tell them the topic ahead of time — 'I want to set up Libby' or 'Help me research my family history' — so they can prep.",
+        "Bring your device and your library card. Many libraries ask for 1–2 business days to schedule."
+      ],
+      "goodToKnow": [
+        "This is the single best way to learn any of the other items in this pack — bring your card and ask a librarian to walk you through Libby, hoopla, museum passes, or the seed library in one sitting.",
+        "If your library doesn't use the exact name, ask for 'one-on-one tech help' or 'a research appointment' — it's the same thing."
+      ],
+      "examples": [
+        { "name": "Hussey-Mayfield Memorial Public Library (IN) — Book A Librarian", "url": "https://hmmpl.org/book-a-librarian/", "desc": "Indianapolis-area example: request form, topics covered, and limits." },
+        { "name": "Tippecanoe County Public Library (IN)", "url": "https://tcpl.lib.in.us/learn/adults/book-a-librarian/", "desc": "Form-based booking with topics including resume and job-search help." },
+        { "name": "Evansville Vanderburgh Public Library (IN)", "url": "https://www.evpl.org/services/book-a-librarian/", "desc": "Online, phone, and in-person appointment options." }
+      ],
+      "sources": [
+        { "label": "Hussey-Mayfield Memorial Public Library — Book A Librarian", "url": "https://hmmpl.org/book-a-librarian/" },
+        { "label": "Tippecanoe County Public Library — Book a Librarian", "url": "https://tcpl.lib.in.us/learn/adults/book-a-librarian/" },
+        { "label": "Evansville Vanderburgh Public Library — Book-A-Librarian", "url": "https://www.evpl.org/services/book-a-librarian/" }
+      ]
+    },
+    {
+      "id": "seeds",
+      "icon": "sprout",
+      "topic": "Seed libraries",
+      "title": "Seed libraries: borrow seeds, grow food, return saved seeds",
+      "teaser": "Free vegetable and flower seeds, no green thumb required.",
+      "what": [
+        "A seed lending library is a place where anyone can borrow seeds for free — usually offered at a public library or community hub. The Richmond Grows Seed Lending Library (working with the Richmond, California public library) describes it plainly: plant the seeds, let some plants go to seed, and return some of those next-generation seeds for others to borrow. No fines if you don't return.",
+        "It is a real library service: pick seed packets during growing season, sometimes with free classes on gardening and seed-saving, and community info on the varieties on offer.",
+        "Seed libraries exist in hundreds of libraries — look for 'seed library' on your library's site, or search Richmond Grows' national Library Finder."
+      ],
+      "cost": [
+        "Free to borrow.",
+        "Donations of seeds (or money for supplies) are welcome but never required."
+      ],
+      "signup": [
+        "Usually just show up and take seeds — most seed libraries ask only that you take what you'll plant.",
+        "Some ask you to log what you took (a pencil-and-paper log at the counter), and some require that you're a library member of that system.",
+        "To save-and-return: pick open-pollinated/heirloom varieties (the seed library labels what's suited to saving) and let a couple plants go to seed; the Richmond Grows 'How to Save Seeds' guide walks you through it."
+      ],
+      "goodToKnow": [
+        "Beginner tip: start with easy-to-save crops like beans, lettuce, peas, or tomatoes — hybrid seeds won't grow true, so stick to what the library flags as savable.",
+        "Seed libraries often have free gardening classes in spring — a usual, simple add-on when you claim your seeds."
+      ],
+      "examples": [
+        { "name": "Richmond Grows Seed Lending Library", "url": "https://www.richmondgrowsseeds.org/", "desc": "One of the original seed libraries — 'what it is', how-to, and a national library finder." },
+        { "name": "Richmond Grows — Seed Library Finder", "url": "https://www.richmondgrowsseeds.org/library-finder.html", "desc": "Locate a seed library near you, anywhere in the world." }
+      ],
+      "sources": [
+        { "label": "Richmond Grows Seed Lending Library (official)", "url": "https://www.richmondgrowsseeds.org/" },
+        { "label": "Richmond Grows — Library Finder", "url": "https://www.richmondgrowsseeds.org/library-finder.html" }
+      ]
+    }
+  ]
+}
